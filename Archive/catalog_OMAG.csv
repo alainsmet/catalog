@@ -1,0 +1,15 @@
+[nume-magazin];OMAG;;;;;;;;;;;;;;
+[lista-coloane];cod_produs;subclasa;producator;pret;consum;stoc;;;;;;;;;
+[parametrii];cod_produs;producator;pret;consum;stoc;adincime;latime;inaltime;lungime_cablu;baterie;capacitate_congelator;capacitate_frigider;nr_arzatoare;rotatii_min;rezervor
+[valorii-initiale];;;0.;0.;0;0.;0.;0.;0.;;0.;0.;0;0.;0
+[debut-date];;;;;;;;;;;;;;;
+Frigider;AD54240P+;Arctic;799.99;226;12;60;54;146.5;;;46;177;;;
+Frigider;RDNE535E20DZM;Beko;1999;397;20;69;70;193;;;103;368;;;
+Aragaz;ZCG210M1WA;Zanussi;799.99;2600;19;50;50;85;;;;;4;;
+Aragaz;FSM62530DXMS;Beko;1599.99;3000;10;60;60;85;;;;;4;;
+Mixer;MFQ36480;Bosch;233.98;450;40;;;;125;Nu;;;;3000;
+Mixer;HT411138;Tefal;154.98;450;15;;;;150;Nu;;;;2500;
+Fier_calcat;FV4911;Tefal;199.99;2400;11;;;;200;Nu;;;;;0.27
+Fier_calcat;SSAR22P;Arctic;177.31;2200;5;;;;180;Nu;;;;;0.7
+Fier_calcat;TDI902431E;Bosch;385.99;2400;1;;;;250;Nu;;;;;0.4
+[sfarsit-date];;;;;;;;;;;;;;;

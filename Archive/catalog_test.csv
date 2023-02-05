@@ -1,0 +1,7 @@
+[nume-magazin];OMAG
+[lista-coloane];cod_produs;subclasa;producator;pret;consum;stoc
+[parametri];producator;pret;consum;stoc;adincime;latime;inaltime;lungime_cablu;baterie;capacitate_congelator;capacitate_frigider;nr_arzatoare;rotatii_min;rezervor;clasa;subclasa
+[valori-initiale];;;0.0;0.0;0;0.0;0.0;0.0;0.0;;0.0;0.0;0;0.0;0.0;;
+[debut-date]
+Frigider;Aston Martin;46578.3;2788.0;93;0.25;0.36;1.23;;;150.0;12.0;;;;<<Electrocasnice mari>>;<<Frigider>>
+[sfarsit-date];
